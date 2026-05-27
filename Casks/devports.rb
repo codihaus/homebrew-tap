@@ -1,6 +1,6 @@
 cask "devports" do
   version "1.0.0"
-  sha256 "0670458475390e7a77e40341df5c402f8073a92d7c4a99848c73de9331e4f598"
+  sha256 "e3c72f2b6d9e12ef984c5affd28135a0e23145121f01227bd7435da49c615833"
 
   url "https://github.com/codihaus/devports/releases/download/v#{version}/DevPorts.app.zip"
   name "DevPorts"
